@@ -2,6 +2,7 @@
 	pageEncoding="UTF-8"%>
 
 <%@ page import="java.io.PrintWriter"%>
+<link rel="stylesheet" href="css/custom.css">
 <!DOCTYPE html>
 <html>
 <head>

@@ -4,6 +4,7 @@
 <%@ page import="java.io.PrintWriter"%>
 <%@ page import="bbs.Bbs" %>
 <%@ page import="bbs.BbsDAO" %>
+<link rel="stylesheet" href="css/custom.css">
 <!DOCTYPE html>
 <html>
 <head>
